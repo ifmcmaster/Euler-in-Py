@@ -5,3 +5,5 @@ Solutions are intended to be readable, and contain explanations as to how answer
 Brute Force approaches will be provided, with explanations of improvements that can be, or are, made.  
 If there is an approach that is not brute force, that approach will be provided as well.  
 The raw answers to solutions are not provided.
+
+This project is being create in an effort to learn Python, and improve Discrete Mathematics skills.
