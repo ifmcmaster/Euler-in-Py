@@ -13,6 +13,7 @@ def bruteForce():
 
     return squareSums - sumSquares
 
+
 # Triangular Number Approach
 # The sum of real numbers up to 'n' is given by:
 # (n(n+1))/2
