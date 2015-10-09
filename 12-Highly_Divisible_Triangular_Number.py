@@ -27,8 +27,7 @@ def prime_factorization(input):
     number = input
     factor = 2
     primeList = []
-
-    while factor <= int(math.sqrt(input)):
+    while factor <= int(ceil(math.sqrt(input))):
         if number % factor == 0:
             primeList.append(factor)
             number = number / factor
